@@ -25,18 +25,7 @@ A simple linear regression model achieves an MSE of 0.42 on the dataset, while a
 Upload your code and a brief description of your results.
 
 ## References 
-https://machinelearningmastery.com/training-and-validation-data-in-pytorch/
 
-https://stackoverflow.com/questions/50307707/how-do-i-convert-a-pandas-dataframe-to-a-pytorch-tensor
-
-https://stackoverflow.com/questions/42286972/converting-from-pandas-dataframe-to-tensorflow-tensor-object
-
-https://stackoverflow.com/questions/50307707/how-do-i-convert-a-pandas-dataframe-to-a-pytorch-tensor
-
-https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
-
-
-----
 https://scikit-learn.org/stable/modules/linear_model.html
 
 https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#sphx-glr-auto-examples-linear-model-plot-ols-py
